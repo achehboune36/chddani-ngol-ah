@@ -1,0 +1,14 @@
+{
+  "name": "Chddani Ngol Ah",
+  "short_name": "Chddani",
+  "description": "Why did I say yes? Runs, races and hangouts with the crew.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf6f1",
+  "theme_color": "#b9472a",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
